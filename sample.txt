@@ -1,3 +1,1 @@
  hi this is sample txt file
-we are adding second lin
-and thired line 
